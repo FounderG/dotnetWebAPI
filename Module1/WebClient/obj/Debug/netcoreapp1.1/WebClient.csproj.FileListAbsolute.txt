@@ -1,0 +1,18 @@
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.csproj.CoreCompileInputs.cache
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfoInputs.cache
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+D:\YimingGao\Workspace\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb
