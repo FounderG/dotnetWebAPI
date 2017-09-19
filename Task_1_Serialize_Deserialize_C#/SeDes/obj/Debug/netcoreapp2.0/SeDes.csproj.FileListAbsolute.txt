@@ -1,0 +1,10 @@
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/bin/Debug/netcoreapp2.0/SeDes.deps.json
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.json
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.dev.json
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/bin/Debug/netcoreapp2.0/SeDes.dll
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/bin/Debug/netcoreapp2.0/SeDes.pdb
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/obj/Debug/netcoreapp2.0/SeDes.csproj.CoreCompileInputs.cache
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfoInputs.cache
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfo.cs
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/obj/Debug/netcoreapp2.0/SeDes.dll
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Task_1_Serialize_Deserialize_C#/SeDes/obj/Debug/netcoreapp2.0/SeDes.pdb
