@@ -30,10 +30,16 @@ namespace SeDes
 		//deserialize the json string
 		public static void DoDeserialization(string json)
 		{
-			var rockets = JsonConvert.DeserializeObject<Rocket[]>(json);
+			/*var rockets = JsonConvert.DeserializeObject<Rocket[]>(json);
 			foreach (var r in rockets)
 			{
 				System.Console.WriteLine($"ID:{r.ID} Builder:{r.Builder} Target:{r.Target} Speed:{r.Speed}");
+			}*/
+
+			var ufos = JsonConvert.DeserializeObject<UFO[]>(json);
+			foreach (var ufo in ufos)
+			{
+				System.Console.WriteLine($"Target:{ufo.Target} Speed:{ufo.Speed}");
 			}
 		}
 	}
