@@ -1,0 +1,3 @@
+[submodule "CourseModules"]
+	path = CourseModules
+	url = https://github.com/MicrosoftLearning/edX_DEV247X_Build_WebAPIs_Using_ASP.NET.git
