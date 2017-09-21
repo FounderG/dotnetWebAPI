@@ -1,0 +1,10 @@
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/bin/Debug/netcoreapp2.0/WebServer.deps.json
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.json
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.dev.json
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/bin/Debug/netcoreapp2.0/WebServer.dll
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/bin/Debug/netcoreapp2.0/WebServer.pdb
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/obj/Debug/netcoreapp2.0/WebServer.csproj.CoreCompileInputs.cache
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfoInputs.cache
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfo.cs
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/obj/Debug/netcoreapp2.0/WebServer.dll
+/Users/gaoyiming/Documents/YimingGao/Workspace/WebAPI/Module3 Lab/WebServer/obj/Debug/netcoreapp2.0/WebServer.pdb
